@@ -25,16 +25,15 @@
 ## Achievements
 
 - GitHub profile achievements: Pull Shark x2, Galaxy Brain, Pair Extraordinaire, Quickdraw, and YOLO
-- Active GitHub learner and builder: [manojkumarbashaveni-coder](https://github.com/manojkumarbashaveni-coder)
-- Created end-to-end animated video workflows using Python, Blender, and audio tooling
-- Produced rendered video outputs, storyboard sheets, narration tracks, and music files
-- Built reusable scripts for generating voiced videos and combining background music
-- Iterated across multiple animation versions to improve quality and presentation
-- Organized creative assets into prompts, audio, scripts, outputs, and final bundles
+<p align="left">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark x2" title="Pull Shark x2" width="82" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" alt="Galaxy Brain" title="Galaxy Brain" width="82" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire" title="Pair Extraordinaire" width="82" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" title="Quickdraw" width="82" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" title="YOLO" width="82" />
+</p>
 
-## Tech And Tools
-
-`Python` `Blender` `PowerShell` `Video Production` `Audio Automation` `Storyboarding` `Prompt Engineering` `3D Animation`
+**GitHub achievements:** Pull Shark x2, Galaxy Brain, Pair Extraordinaire, Quickdraw, and YOLO
 
 ## Current Focus
 
@@ -42,4 +41,4 @@ I am improving creative automation workflows that can move from an idea to a com
 
 ## Let's Connect
 
-I am always interested in learning, experimenting, and building creative projects that combine code with storytelling.
+I am always interested in learning, experimenting, and building creative projects.
