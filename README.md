@@ -22,3 +22,24 @@
 [![](https://komarev.com/ghpvc/?username=manojkumarbashaveni-coder&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Achievements
+
+- GitHub profile achievements: Pull Shark x2, Galaxy Brain, Pair Extraordinaire, Quickdraw, and YOLO
+- Active GitHub learner and builder: [manojkumarbashaveni-coder](https://github.com/manojkumarbashaveni-coder)
+- Created end-to-end animated video workflows using Python, Blender, and audio tooling
+- Produced rendered video outputs, storyboard sheets, narration tracks, and music files
+- Built reusable scripts for generating voiced videos and combining background music
+- Iterated across multiple animation versions to improve quality and presentation
+- Organized creative assets into prompts, audio, scripts, outputs, and final bundles
+
+## Tech And Tools
+
+`Python` `Blender` `PowerShell` `Video Production` `Audio Automation` `Storyboarding` `Prompt Engineering` `3D Animation`
+
+## Current Focus
+
+I am improving creative automation workflows that can move from an idea to a complete animated short, including story design, visuals, voice, music, and final rendering.
+
+## Let's Connect
+
+I am always interested in learning, experimenting, and building creative projects that combine code with storytelling.
