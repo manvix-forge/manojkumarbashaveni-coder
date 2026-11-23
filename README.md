@@ -41,4 +41,4 @@ I am improving creative automation workflows that can move from an idea to a com
 
 ## Let's Connect
 
-I am always interested in learning, experimenting, and building creative projects.
+I am always interested in learning, experimenting, and building creative projects. 
